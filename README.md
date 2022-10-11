@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh</h1>
-<h3 align="center">A passionate Linux engineer from the Netherlands :)</h3>
+<h3 align="center">A passionate DevOps engineer from the Netherlands :)</h3>
 
 - 📚 **I study Software Engineering at Rotterdam University of Applied Sciences. Try to deepen and develop in expansion around Software and Cloud native computing**
 
