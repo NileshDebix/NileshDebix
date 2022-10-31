@@ -3,7 +3,7 @@
 
 - 📚 **I study Software Engineering at Rotterdam University of Applied Sciences. Try to deepen and develop in expansion around Software and Cloud native computing**
 
-- ☁️ **My passion, ambitions and fun is around Site reliability engineering (SRE) and DevOps, this is the area in which I want to develop myself in. technologies where I'm interested in are Python / Cloud / Distributed computing**
+- ☁️ **My passion, ambitions and fun is around DevOps and Distributed back-end systems, this is the area in which I want to develop myself in. technologies where I'm interested in are Python / Cloud / Distributed computing**
 
 - 😆 **Would you like to know me better and maybe learn more about my Git repositories, let's have a fun chat**
 
